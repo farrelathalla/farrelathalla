@@ -1,66 +1,40 @@
-<h1 align="left">👋 Farrel Athalla Putra</h1>
+# Farrel Athalla Putra
 
-###
+AI & Software Engineer · Informatics Engineering at Institut Teknologi Bandung
 
-<p align="left">Second-year undergraduate in the School of Electrical Engineering and Informatics at Bandung Institute of Technology on Informatics major. Passionate about Front End, Back End, and UI/UX Designing, I excel in project management and leadership. With a strong foundation in both technical and creative aspects, I am driven by the intersection of design and technology, always eager to learn and innovate.</p>
+I build machine learning systems and the software around them, from computer vision and time-series forecasting to LLM applications with RAG and multi-agent orchestration.
 
-###
+## Currently
 
-<h3 align="left">⚙️My Tech Stacks</h3>
+- Data Science Intern, PT Paragon Technology and Innovation
+- Lead Software Engineer, Betterbankings Indonesia
+- Chief Technology Officer, Inkubator IT
+- Head of IT, Arkavidia 11.0
 
-###
+## Featured Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+| Project | Description |
+| --- | --- |
+| [ToothFairy](https://github.com/farrelathalla/ToothFairy) | Multimodal pediatric caries detection fusing intraoral images and panoramic radiographs, with a LangGraph multi-agent LLM and RAG for treatment recommendations. |
+| [REB.ai](https://github.com/farrelathalla/REB.ai) | Computer vision system that turns existing factory CCTV into automated REBA ergonomic risk assessment, with supervisor-approved voice alerts. Runs fully offline on CPU. |
+| [Veso-AI](https://github.com/farrelathalla/Veso-AI) | AI chatbot for medical students preparing for board exams. |
+| [Content-AI](https://github.com/farrelathalla/Content-AI) | LLM pipeline that turns campaign inputs into ready-to-post social media scripts with style injection and automated quality scoring. |
+| [RAG-DingDong](https://github.com/farrelathalla/RAG-DingDong) | Vectorless BM25-based RAG over Google Drive documents with page-level indexing and Groq-powered generation. |
 
-###
+## Tech Stack
 
-<h3 align="left">🌍Let's connect!</h3>
+**Languages:** Python, TypeScript, Go, SQL, Java, C/C++<br>
+**AI / ML:** PyTorch, Hugging Face, scikit-learn, OpenCV, LangGraph<br>
+**Web:** Next.js, React, React Native, Node.js, Tailwind CSS<br>
+**Infrastructure:** AWS, Docker, CI/CD
 
-###
+## Selected Achievements
 
-<div align="left">
-  <a href="https://www.instagram.com/farrelathalla/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:farrelxag@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/farrel-athalla-095497271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- 1st Place, Datathon RISTEK by OpenAI 2026
+- 1st Place, Data Mining UNITY #14
+- 1st Place, Big Data Competition Statistics Explore 2026
+- 3rd Place, Ericsson & Qualcomm Hackathon 2025
 
-###
+## Contact
 
-<h3 align="left">📊My stats</h3>
-
-###
-
-<div align="center">
-  
-  ![farrelathalla's Stats](https://github-readme-stats.vercel.app/api?username=farrelathalla&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![farrelathalla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farrelathalla&theme=dark&show_icons=true&hide_border=true&layout=compact)
-  
-</div>
+[Email](mailto:farrelxag@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farrelathallaputra/) · [Portfolio](https://farrel.info)
